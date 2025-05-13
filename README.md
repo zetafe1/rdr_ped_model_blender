@@ -11,6 +11,10 @@ Usage Notes:
 
     These files are for non-commercial, educational, and personal use only.
 
+![male_ped_blender](https://github.com/user-attachments/assets/cc5f93ef-6508-4fef-8cec-4846a4ccdc18)
+![female_ped_blender](https://github.com/user-attachments/assets/c738a07c-1f3e-4d13-a38a-706e1d84ec30)
+
+
 Contents:
 
     RDR2_PED_Male.ydr + textures
@@ -19,5 +23,4 @@ Contents:
 
 Feel free to use the models in your projects as needed, but please do not redistribute them commercially or include them in published resources or mods.
 
-![male_ped_blender](https://github.com/user-attachments/assets/9410e176-3997-495f-87fd-bdc50d0cccf1)
-![female_ped_blender](https://github.com/user-attachments/assets/95b0ede1-3d64-4c60-8a03-816513e07910)
+Tafé YourMAPS
