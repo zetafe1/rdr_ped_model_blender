@@ -17,9 +17,9 @@ Usage Notes:
 
 Contents:
 
-    RDR2_PED_Male.ydr + textures
+    RDR2_PED_Male.ydr.xml + textures
 
-    RDR2_PED_Female.ydr + textures
+    RDR2_PED_Female.ydr.xml + textures
 
 Feel free to use the models in your projects as needed, but please do not redistribute them commercially or include them in published resources or mods.
 
